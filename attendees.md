@@ -1,4 +1,5 @@
 Name - Email id
+Sanerita Singh - saneritasingh@gmail.com
 Aman Dwivedi - aman.dwivedi5@gmail.com
 Darshana Sarma - darshana4297@gmail.com
 Neel Kashyap - neelkashyap2014@gmail.com
