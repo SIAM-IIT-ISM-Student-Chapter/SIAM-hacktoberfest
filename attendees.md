@@ -1,4 +1,5 @@
 Name - Email id
+Aman Harsh - aman.harsh.1451@gmail.com
 Sanerita Singh - saneritasingh@gmail.com
 Aman Dwivedi - aman.dwivedi5@gmail.com
 Darshana Sarma - darshana4297@gmail.com
