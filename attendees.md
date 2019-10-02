@@ -1,4 +1,5 @@
 Name - Email id
+NISARG-nisargvaghela2001@gmail.com
 Aman Harsh - aman.harsh.1451@gmail.com
 Sanerita Singh - saneritasingh@gmail.com
 Aman Dwivedi - aman.dwivedi5@gmail.com
