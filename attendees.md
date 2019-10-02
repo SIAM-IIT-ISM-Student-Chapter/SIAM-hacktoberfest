@@ -1,4 +1,5 @@
 Name - Email id
+Aryan Karn - karnaryan253@gmail.com
 Darshana Sarma - darshana4297@gmail.com
 Neel Kashyap - neelkashyap2014@gmail.com
 Jay Sharma - jay.sharma25102001@gmail.com
