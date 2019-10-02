@@ -1,4 +1,5 @@
 Name - Email id
+Shashikant kumar - shashitarwey@gmail.com
 Ashu - ash.updhyy@gmail.com
 Jatin-jatin.19JE0396@mc.iitism.ac.in
 Vikas Yadav -itsmevikasyadavlmp@gmail.com
