@@ -1,4 +1,5 @@
 Name - Email id
+Jatin-jatin.19JE0396@mc.iitism.ac.in
 Vikas Yadav -itsmevikasyadavlmp@gmail.com
 NISARG-nisargvaghela2001@gmail.com
 Aman Harsh - aman.harsh.1451@gmail.com
