@@ -1,4 +1,5 @@
 Name - Email id
+Bhavya Jain - jain.bhavya97@gmail.com
 ADITYA RAJ - adi8873826592@gmail.com
 Priyansh Sharma - sharma22priyansh@gmail.com
 Aryan Karn - karnaryan253@gmail.com
@@ -22,5 +23,3 @@ Deep Ralhan - deep.ralhan26@gmail.com
 Sudhanshu Rawat - sr363298@gmail.com
 Kashish Garg - kashish.18je0404@ee.iitism.ac.in
 Aayush Ahuja - aayu.16je002440@am.ism.ac.in
-Bhavya Jain - jain.bhavya97@gmail.com
-
