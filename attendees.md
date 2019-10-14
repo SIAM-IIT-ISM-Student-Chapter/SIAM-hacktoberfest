@@ -1,14 +1,13 @@
 Name - Email id
-SHUBHAM KUMAR - shubhamkumargupta786@gmail.com
 Ishal Garg - ishalgarg2001@gmail.com
 Yash Meshram - yashm1406@gmail.com
 Anuj Choudhary - abchoudhary13@gmail.com
 Shashikant kumar - shashitarwey@gmail.com
 Ashu - ash.updhyy@gmail.com
-XYZ - xyz@gmail.com
 Jatin-jatin.19JE0396@mc.iitism.ac.in
 Vikas Yadav -itsmevikasyadavlmp@gmail.com
 Isaan - isaangupta01@gmail.com
+SHUBHAM KUMAR - shubhamkumargupta786@gmail.com
 NISARG-nisargvaghela2001@gmail.com
 Aman Harsh - aman.harsh.1451@gmail.com
 Sanerita Singh - saneritasingh@gmail.com
