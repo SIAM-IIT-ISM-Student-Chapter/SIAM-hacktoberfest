@@ -8,6 +8,7 @@ Jatin-jatin.19JE0396@mc.iitism.ac.in
 Vikas Yadav -itsmevikasyadavlmp@gmail.com
 Isaan - isaangupta01@gmail.com
 SHUBHAM KUMAR - shubhamkumargupta786@gmail.com
+Isaan - isaangupta01@gmail.com
 NISARG-nisargvaghela2001@gmail.com
 Aman Harsh - aman.harsh.1451@gmail.com
 Sanerita Singh - saneritasingh@gmail.com
